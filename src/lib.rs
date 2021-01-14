@@ -4,6 +4,7 @@
 
 mod app;
 pub use app::TemplateApp;
+mod chess_board;
 
 // ----------------------------------------------------------------------------
 // When compiling for web:
